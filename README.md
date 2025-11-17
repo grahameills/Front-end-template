@@ -42,6 +42,8 @@ Memelihara seluruh perpustakaan sumber daya membutuhkan investasi waktu yang bes
 
 **Bergabunglah dengan Komunitas Telegram saya, dan Anda akan mendapatkan *link* unduhan lengkap koleksi sumber daya secara gratis!**
 
+https://t.me/+yo4gMpdAn6k1ODg1
+
 <img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/3b9444f3-d220-4e90-8147-0b1be543e4bb" />
 
 
@@ -62,5 +64,7 @@ Sumber daya ini tidak mengharuskan Anda membagikan (*share*), tidak mengharuskan
 💖 Berbagi itu tidak mudah. Semoga koleksi sumber daya ini benar-benar membantu pekerjaan pengembangan Anda!
 
 **👍🏻 Berikan *Like*/**Star** pada *repository* ini agar lebih banyak developer mendapatkan manfaat!**
+
+https://t.me/+yo4gMpdAn6k1ODg1
 
 <img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/8b496e63-d8d3-4a2f-8684-c4fa51d7b61e" />
