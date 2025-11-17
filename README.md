@@ -1,8 +1,6 @@
 # Front-end-template
 Frontend Dev Must-Have: 600+ High-Value Templates &amp; Full Source Code GRATIS (HTML, Bootstrap, Vue Admin). Boost efficiency by 90%!
-Tentu, berikut adalah terjemahan lengkap konten tersebut ke dalam bahasa Indonesia yang cocok untuk dibaca sebagai artikel, disajikan dalam format Markdown untuk file README.md di GitHub.
 
-Markdown
 
 # 🎁 BERBAGI GRATIS | Koleksi Sumber Daya Wajib bagi Developer Frontend: Template Pilihan Industri + Full Source Code, Akselerasi Efisiensi Anda!
 
