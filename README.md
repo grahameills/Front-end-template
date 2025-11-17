@@ -12,7 +12,9 @@ Markdown
 Seiring gelombang digitalisasi melanda semua industri, permintaan akan *website* perusahaan, platform *e-commerce*, dan sistem manajemen *backend* (*middle/back-office*) melonjak drastis! Namun, membangun semuanya dari nol (*reinventing the wheel*) sama dengan membuang-buang waktu!
 
 👉 **Fakta:** Lebih dari **70%** proyek perusahaan skala kecil hingga menengah dapat langsung menggunakan kembali template yang matang untuk mempersingkat siklus pengembangan;
+
 👉 **Perekrut Perusahaan Besar** lebih fokus pada implementasi logika bisnis dan kemampuan desain arsitektur, bukan hanya pembuatan halaman dasar;
+
 👉 Menguasai kemampuan pengembangan sekunder (*secondary development*) dari *source code* berkualitas tinggi telah menjadi **nilai tambah tersembunyi** dalam mencari pekerjaan *frontend*!
 
 ---
@@ -41,6 +43,7 @@ Koleksi ini **BUKAN** "paket sampah" yang asal dikumpulkan, melainkan **model pi
 Memelihara seluruh perpustakaan sumber daya membutuhkan investasi waktu yang besar, sehingga koleksi ini hanya terbuka untuk developer yang menghargai semangat *open source*. Untuk menghindari penyalahgunaan dan menyaring developer yang benar-benar membutuhkan, saya menetapkan ambang batas untuk mendapatkan **seluruh sumber daya gratis** ini.
 
 **Bergabunglah dengan Komunitas Telegram saya, dan Anda akan mendapatkan *link* unduhan lengkap koleksi sumber daya secara gratis!**
+
 <img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/3b9444f3-d220-4e90-8147-0b1be543e4bb" />
 
 
@@ -49,14 +52,6 @@ Memelihara seluruh perpustakaan sumber daya membutuhkan investasi waktu yang bes
 * **Gratis Membuka Kunci Semua Sumber Daya:** 500+ Template HTML (termasuk skenario bernilai tinggi seperti *e-commerce*/game), 80+ *Full Source Code* Bootstrap, Kode Lengkap Sistem Blog Java, Versi *vue-admin-box* dengan *interface* *backend*;
 * **Tanya Jawab Masalah Frontend:** Saya akan rutin menjawab pertanyaan di grup mengenai penggunaan template, pengembangan sekunder, dan masalah lain untuk menghindari Anda terjebak;
 * **Pemberitahuan Pembaruan Sumber Daya:** Saya akan terus mengumpulkan dan membagikan lebih banyak sumber daya gratis di masa mendatang, dan anggota komunitas akan mendapatkannya terlebih dahulu;
-
-### 🔑 Langkah Pengambilan:
-
-1.  **Gunakan *link* di bawah ini atau pindai kode QR untuk bergabung dengan Komunitas Telegram:**
-    * **[Link Undangan Komunitas Telegram Anda]**
-2.  *Link* unduhan lengkap semua sumber daya dapat ditemukan di pesan yang disematkan (*pinned message*) atau di bagian file grup.
-
-
 
 ---
 
@@ -69,4 +64,5 @@ Sumber daya ini tidak mengharuskan Anda membagikan (*share*), tidak mengharuskan
 💖 Berbagi itu tidak mudah. Semoga koleksi sumber daya ini benar-benar membantu pekerjaan pengembangan Anda!
 
 **👍🏻 Berikan *Like*/**Star** pada *repository* ini agar lebih banyak developer mendapatkan manfaat!**
+
 <img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/8b496e63-d8d3-4a2f-8684-c4fa51d7b61e" />
